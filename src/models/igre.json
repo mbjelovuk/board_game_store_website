@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "naziv": {
+      "SRB": "Catan",
+      "ENG": "Catan"
+    },
+    "kategorija": {
+      "SRB": ["strateske", "porodicne"],
+      "ENG": ["strategic", "family"]
+    },
+    "opis": {
+      "SRB": "Zakoračite na pusto ostrvo Catan kao jedan od prvih doseljenika! U ovoj legendarnoj igri koja je pokrenula modernu revoluciju društvenih igara, vaš cilj je da pametnim postavljanjem naselja i gradova zagospodarite mapom. Ključ uspeha leži u sakupljanju pet osnovnih resursa (drvo, cigla, ruda, žito i vuna), ali i u vašim pregovaračkim sposobnostima – kada vam zafali resursa, moraćete da trgujete sa ljutim protivnicima. Pazite se pljačkaša koji jedva čeka da vam blokira proizvodnju!",
+      "ENG": "Step onto the uncharted island of Catan as one of the first settlers! In this legendary game that sparked the modern board game revolution, your goal is to dominate the map through clever placement of settlements and cities. The key to success lies in gathering five basic resources (lumber, brick, ore, grain, and wool), but also in your negotiation skills – when you run short, you'll have to trade with fierce opponents. Watch out for the robber who is eager to block your production!"
+    },
+    "brIgraca": [3, 4],
+    "uzrast": 10,
+    "trajanje": 75,
+    "cena": 4500,
+    "nova": true,
+    "popust": 20,
+    "slike": ["../assets/porodicne/catan.png"]
+  },
+  {
+    "id": 2,
+    "naziv": {
+      "SRB": "Monopol",
+      "ENG": "Monopoly"
+    },
+    "kategorija": {
+      "SRB": ["porodicne"],
+      "ENG": ["family"]
+    },
+    "opis": {
+      "SRB": "Apsolutni klasik ekonomskih igara koji generacijama okuplja porodice i prijatelje oko stola. Prođite kroz polje 'START', kupujte prestižne ulice, gradite kuće i podižite luksuzne hotele kako biste naplaćivali ogromne kirije svakome ko kroči na vaš posed. U ovoj igri visokih uloga moraćete balansirati između agresivnog investiranja, taktičke štednje novca i sklapanja pametnih dogovora. Da li ćete postati neprikosnoveni finansijski magnat ili ćete završiti u bankrotu dok vaši protivnici slave?",
+      "ENG": "An absolute classic of economic games that has been gathering families and friends around the table for generations. Pass 'GO', buy prestigious streets, build houses, and erect luxury hotels to charge massive rents to anyone who steps onto your property. In this high-stakes game, you'll have to balance aggressive investing, tactical saving, and making smart deals. Will you become the undisputed financial tycoon or end up bankrupt while your opponents celebrate?"
+    },
+    "brIgraca": [2, 3, 4, 5, 6],
+    "uzrast": 8,
+    "trajanje": 90,
+    "cena": 3200,
+    "nova": false,
+    "popust": 0,
+    "slike": ["../assets/porodicne/monopol.png"]
+  },
+  {
+    "id": 3,
+    "naziv": {
+      "SRB": "Ticket to Ride",
+      "ENG": "Ticket to Ride"
+    },
+    "kategorija": {
+      "SRB": ["porodicne"],
+      "ENG": ["family"]
+    },
+    "opis": {
+      "SRB": "Započnite nezaboravnu železničku avanturu širom kontinenta! Ticket to Ride je elegantno jednostavna, ali neverovatno napeta igra u kojoj igrači sakupljaju karte različitih tipova vagona kako bi zauzeli železničke rute i povezali gradove sa svojih tajnih zadataka. Što su gradovi udaljeniji, to je osvojenih poena više. Međutim, budite brzi i oprezni – planovi vam lako mogu propasti ako vam protivnik 'ispred nosa' preotme ključnu prugu i odseče vas sa mape!",
+      "ENG": "Embark on an unforgettable railway adventure across the continent! Ticket to Ride is an elegantly simple yet incredibly tense game where players collect train car cards to claim railway routes and connect cities from their secret destination tickets. The further the cities, the more points you earn. However, be fast and cautious – your plans can easily derail if an opponent claims a crucial route right under your nose and cuts you off the map!"
+    },
+    "brIgraca": [2, 3, 4, 5],
+    "uzrast": 8,
+    "trajanje": 45,
+    "cena": 4800,
+    "nova": true,
+    "popust": 10,
+    "slike": ["../assets/porodicne/ticket-to-ride.png"]
+  },
+  {
+    "id": 4,
+    "naziv": {
+      "SRB": "7 Wonders",
+      "ENG": "7 Wonders"
+    },
+    "kategorija": {
+      "SRB": ["strateske"],
+      "ENG": ["strategic"]
+    },
+    "opis": {
+      "SRB": "Postanite vođa jedne od sedam velikih antičkih civilizacija i ostavite neizbrisiv trag u istoriji. Kroz tri dinamična doba, igrači simultano biraju karte sa arhitektonskim, naučnim, trgovačkim i vojnim strukturama, pokušavajući da izgrade jedno od sedam svetskih čuda. Zahvaljujući mehanizmu istovremenog igranja, igra nema 'praznog hoda' i sjajno funkcioniše čak i u maksimalnom broju igrača. Pobednika odlučuje najizbalansiraniji razvoj ekonomije, kulture i vojne moći.",
+      "ENG": "Become the leader of one of the seven great ancient civilizations and leave an indelible mark on history. Through three dynamic ages, players simultaneously draft cards featuring architectural, scientific, commercial, and military structures, trying to build one of the Seven Wonders of the World. Thanks to the simultaneous play mechanism, the game has no downtime and works brilliantly even with the maximum number of players. The winner is determined by the most balanced development of economy, culture, and military might."
+    },
+    "brIgraca": [2, 3, 4, 5, 6, 7],
+    "uzrast": 10,
+    "trajanje": 40,
+    "cena": 5200,
+    "nova": false,
+    "popust": 0,
+    "slike": ["../assets/strateske/7-wonders.jpg"]
+  },
+  {
+    "id": 5,
+    "naziv": {
+      "SRB": "Avalon",
+      "ENG": "Avalon"
+    },
+    "kategorija": {
+      "SRB": ["zabavne", "strateske"],
+      "ENG": ["party", "strategic"]
+    },
+    "opis": {
+      "SRB": "Smešten u mitsko doba kralja Artura, Avalon je psihološka igra skrivene dedukcije, blefiranja i neizvesnosti. Igrači su tajno podeljeni u dve grupe: verni vitezovi koji se bore za dobrobit kraljevstva i zli podanici predvođeni Mordredom. Dok vitezovi pokušavaju da uspešno završe svete misije, skriveni izdajnici u njihovim redovima rade sve da ih sabotiraju tokom glasanja. Da li ćete prepoznati laž u očima svojih prijatelja ili će zlo zavladati Camelotom?",
+      "ENG": "Set in the mythical era of King Arthur, Avalon is a psychological game of hidden deduction, bluffing, and suspense. Players are secretly divided into two teams: loyal knights fighting for the realm and evil minions led by Mordred. While the loyal knights attempt to successfully complete sacred quests, hidden traitors in their midst do everything to sabotage them during voting phases. Will you spot the lie in your friends' eyes, or will evil rule Camelot?"
+    },
+    "brIgraca": [5, 6, 7, 8, 9, 10],
+    "uzrast": 13,
+    "trajanje": 30,
+    "cena": 2400,
+    "nova": false,
+    "popust": 30,
+    "slike": ["../assets/strateske/avalon.png"]
+  },
+  {
+    "id": 6,
+    "naziv": {
+      "SRB": "Riziko",
+      "ENG": "Risk"
+    },
+    "kategorija": {
+      "SRB": ["strateske", "porodicne"],
+      "ENG": ["strategic", "family"]
+    },
+    "opis": {
+      "SRB": "Pripremite se za globalnu dominaciju i epske ratne pohode! Riziko je ultimativna društvena igra vojne strategije u kojoj komandujete armijama sa ciljem da osvojite neprijateljske teritorije i ispunite svoju tajnu misiju. Svaki potez zahteva duboko promišljanje: gde rasporediti pojačanja, koga napasti i kada sklopiti privremeni diplomatski savez sa saveznikom koji će vas već u sledećem krugu možda izdati. Ishodi bitaka na kockicama donose vrhunsku tenziju!",
+      "ENG": "Prepare for global domination and epic military campaigns! Risk is the ultimate board game of military strategy where you command armies to conquer enemy territories and achieve your secret mission. Every turn requires deep thinking: where to deploy reinforcements, whom to attack, and when to forge a temporary alliance with an ally who might betray you in the very next round. Dice-rolling battle outcomes bring ultimate tension!"
+    },
+    "brIgraca": [2, 3, 4, 5, 6],
+    "uzrast": 10,
+    "trajanje": 120,
+    "cena": 3600,
+    "nova": true,
+    "popust": 0,
+    "slike": ["../assets/strateske/riziko.png"]
+  },
+  {
+    "id": 7,
+    "naziv": {
+      "SRB": "Codenames",
+      "ENG": "Codenames"
+    },
+    "kategorija": {
+      "SRB": ["zabavne"],
+      "ENG": ["party"]
+    },
+    "opis": {
+      "SRB": "Dva suparnička špijunska tima takmiče se ko će pre uspostaviti kontakt sa svim svojim agentima! Na stolu se nalazi 25 kartica sa rečima, a vođe timova (Spymasters) jedini znaju koje reči pripadaju njihovom timu. Oni daju tragove koji se sastoje od samo jedne reči i jednog broja, povezujući tako više pojmova odjednom. Saigrači moraju dobro da uključe vijuge, shvate asocijaciju i izbegnu opasnog 'ubicu' koji automatski završava igru porazom.",
+      "ENG": "Two rival spy teams compete to see who will be the first to contact all of their agents! There are 25 word cards on the table, and the Spymasters are the only ones who know which words belong to their team. They give clues consisting of just one word and one number, linking multiple concepts at once. Teammates must think hard, grasp the association, and avoid the dangerous assassin who instantly ends the game in defeat."
+    },
+    "brIgraca": [2, 3, 4, 5, 6, 7, 8],
+    "uzrast": 14,
+    "trajanje": 15,
+    "cena": 2200,
+    "nova": false,
+    "popust": 25,
+    "slike": ["../assets/zabavne/codenames.png"]
+  },
+  {
+    "id": 8,
+    "naziv": {
+      "SRB": "Dixit",
+      "ENG": "Dixit"
+    },
+    "kategorija": {
+      "SRB": ["porodicne"],
+      "ENG": ["family"]
+    },
+    "opis": {
+      "SRB": "Zakoračite u prelepi svet mašte i umetnosti gde slika govori više od hiljadu reči! Dixit je višestruko nagrađivana igra asocijacija u kojoj svaki igrač postaje pripovedač. Koristeći prelepo ilustrovane, nadrealne karte, pripovedač daje zagonetnu frazu, pesmu ili zvuk, a ostali biraju kartu iz svoje ruke koja najbolje odgovara tom opisu. Cilj je ponuditi asocijaciju koja nije ni previše očigledna, ni previše teška, pogađajući zlatnu sredinu ljudske mašte.",
+      "ENG": "Step into a beautiful world of imagination and art where a picture is worth a thousand words! Dixit is a multi-award-winning game of storytelling and associations where every player becomes the storyteller. Using beautifully illustrated, surreal cards, the storyteller provides a mysterious phrase, poem, or sound, while others choose a card from their hand that best fits that description. The goal is to offer a clue that is neither too obvious nor too difficult, hitting the sweet spot of human imagination."
+    },
+    "brIgraca": [3, 4, 5, 6],
+    "uzrast": 8,
+    "trajanje": 30,
+    "cena": 3900,
+    "nova": true,
+    "popust": 0,
+    "slike": ["../assets/zabavne/dixit.png"]
+  },
+  {
+    "id": 9,
+    "naziv": {
+      "SRB": "Eksplozivni mačići",
+      "ENG": "Exploding Kittens"
+    },
+    "kategorija": {
+      "SRB": ["zabavne"],
+      "ENG": ["party"]
+    },
+    "opis": {
+      "SRB": "Ova urnebesna i brza kartaška igra opisuje se kao strateška verzija ruskog ruleta – sa mačićima, laserskim zracima i eksplozijama! Igrači vuku karte sa gomile sve dok neko ne izvuče Eksplozivno mače, čime odmah ispada iz igre. Jedini spas je karta 'Deaktiviraj' (pomoću lasera, mačje trave ili češkanja po stomaku). Sve ostale karte u špilu služe za napad na protivnike, krađu njihovih karata, preskakanje poteza i preusmeravanje opasnosti na sledećeg igrača!",
+      "ENG": "This hilarious and fast-paced card game is described as a highly strategic, kitty-powered version of Russian roulette! Players draw cards from the deck until someone draws an Exploding Kitten, at which point they explode and are immediately out of the game. The only salvation is a Defuse card (using lasers, catnip, or belly rubs). All other cards in the deck are used to attack opponents, steal their cards, skip turns, and redirect danger to the next player!"
+    },
+    "brIgraca": [2, 3, 4, 5],
+    "uzrast": 7,
+    "trajanje": 15,
+    "cena": 2600,
+    "nova": false,
+    "popust": 20,
+    "slike": ["../assets/zabavne/eksplozivni-macici.png"]
+  }
+]

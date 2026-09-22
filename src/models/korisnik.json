@@ -1,0 +1,35 @@
+[
+    {
+        "ime": "admin",
+        "korime": "admin",
+        "lozinka": "admin123",
+        "istorijakorpa": [
+            {"datum":"20.1.2026.",
+            "proizvodi":[
+                {"igra":1,"kolicina":2},
+                {"igra":2,"kolicina":1}
+                ]
+            },
+            {"datum":"20.4.2026.",
+            "proizvodi":[
+                {"igra":3,"kolicina":1},
+                {"igra":2,"kolicina":1},
+                {"igra":5,"kolicina":2}
+                ]
+            }
+        ]
+    },
+    {
+        "ime": "pera",
+        "korime": "pera",
+        "lozinka": "pera123",
+        "istorijakorpa": [
+            {"datum":"20.1.2026.",
+            "proizvodi":[
+                {"igra":3,"kolicina":2},
+                {"igra":2,"kolicina":5}
+                ]
+            }
+        ]
+    }
+]

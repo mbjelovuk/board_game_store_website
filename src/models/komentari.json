@@ -1,0 +1,56 @@
+[
+    {
+        "igraId": "1",
+        "korisnik": "pera",
+        "ocena": 1,
+        "tekst": "NULA BODOVA!"
+    },
+    {
+        "igraId": "1",
+        "korisnik": "admin",
+        "ocena": 4,
+        "tekst": "Odlične komponente, ali partija ume da potraje malo duže."
+    },
+    {
+        "igraId": "2",
+        "korisnik": "nikola",
+        "ocena": 5,
+        "tekst": "Najbolja strateška igra ikada napravljena."
+    },
+        {
+        "igraId": "3",
+        "korisnik": "pera",
+        "ocena": 5,
+        "tekst": "Na kutiji piše 'od 14 godina'. Mi probali sa društvom sa fakuleta, niko ništa nije shvatio."
+    },
+    {
+        "igraId": "7",
+        "korisnik": "admin",
+        "ocena": 4,
+        "tekst": "Super igra."
+    },
+    {
+        "igraId": "4",
+        "korisnik": "nikola67",
+        "ocena": 5,
+        "tekst": "Bolje da se zove 6-7 wonders, uvek nam promakne jedan."
+    },    {
+        "igraId": "1",
+        "korisnik": "pera",
+        "ocena": 5,
+        "tekst": "Sjajna igra za celu porodicu, igramo je svakog vikenda iako nemam porodicu!"
+    },
+    {
+        "igraId": "8",
+        "korisnik": "andrej",
+        "ocena": 2,
+        "tekst": "Odlična igra."
+    },
+    {
+        "igraId": "4",
+        "korisnik": "dragan",
+        "ocena": 1,
+        "tekst": "Najgora igra ikada napravljena."
+    }
+
+]
